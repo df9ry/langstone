@@ -1,0 +1,12 @@
+*.stl
+*.gcode
+*.bgcode
+*.3mf
+*.swp
+*.pwmx
+
+~*
+*-backups/
+fp-info-cache
+*-backups/
+pcbway_production/
